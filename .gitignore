@@ -1,0 +1,15 @@
+# Checkpoints & Model Berat
+checkpoints/
+*.safetensors
+*.bin
+*.onnx
+*.tflite
+*.pb
+tf_saved_model/
+
+# Runtime Colab / Python Cache
+.config/
+sample_data/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

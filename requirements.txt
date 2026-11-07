@@ -1,0 +1,10 @@
+torch>=2.1.0
+transformers>=4.36.0
+datasets>=2.16.0
+evaluate
+accelerate
+scikit-learn
+pandas
+pyarrow
+onnx>=1.15.0
+onnxruntime>=1.17.0
